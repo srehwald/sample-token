@@ -1,0 +1,9 @@
+{
+  "name": "sample-token",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "truffle-hdwallet-provider": "^1.0.2"
+  }
+}
